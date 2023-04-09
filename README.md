@@ -1,1 +1,1 @@
-![My Discord](https://discord-readme-badge.vercel.app/api?id=199156719765553152)
+> When she says "I love you" but my drunk homie said, "<span style='font-family: cursive;'>My love for you is like a river, flowing endlessly deep and true.</span>" - Poetic Rizz

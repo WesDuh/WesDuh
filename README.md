@@ -5,3 +5,6 @@
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=199156719765553152)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WesDuh&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+
